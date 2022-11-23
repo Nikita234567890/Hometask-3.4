@@ -9,8 +9,6 @@ fun main(){
     var max = arraylist.maxOf { item -> item }
     max = 10
     println(max)
-
-    
 }
 
 
